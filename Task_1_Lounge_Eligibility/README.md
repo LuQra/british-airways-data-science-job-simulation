@@ -120,9 +120,9 @@ The model helps the Airport Planning team:
 
 ```
 Task_1_Lounge_Eligibility/
-│
+├── README.md
 ├── Lounge_Eligibility_Lookup_Table.xlsx
-└── README.md
+└── lookup_table_preview.png
 ```
 
 ---
