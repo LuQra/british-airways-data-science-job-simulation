@@ -78,10 +78,10 @@ Visualizations included:
 - Feature distributions
 - Categorical feature analysis
 
-  ![Booking Completion Distribution](images/booking_completion_distribution.png)
+  ![Booking Completion Distribution](booking_completion_distribution.png)
   #This visualization shows the distribution of completed and incomplete bookings, highlighting the class imbalance within the dataset.
 
-  ![Correlation Heatmap](images/correlation_heatmap.png)
+  ![Correlation Heatmap](correlation_heatmap.png)
   # The correlation heatmap illustrates the relationships between numerical variables, helping identify patterns and potential multicollinearity before model training.
 
 ---
