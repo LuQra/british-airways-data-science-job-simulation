@@ -79,10 +79,10 @@ Visualizations included:
 - Categorical feature analysis
 
   ![Booking Completion Distribution](booking_completion_distribution.png)
-  #This visualization shows the distribution of completed and incomplete bookings, highlighting the class imbalance within the dataset.
+  This visualization shows the distribution of completed and incomplete bookings, highlighting the class imbalance within the dataset.
 
   ![Correlation Heatmap](correlation_heatmap.png)
-  # The correlation heatmap illustrates the relationships between numerical variables, helping identify patterns and potential multicollinearity before model training.
+  The correlation heatmap illustrates the relationships between numerical variables, helping identify patterns and potential multicollinearity before model training.
 
 ---
 
@@ -122,10 +122,10 @@ Performance visualizations include:
 - Feature Importance
 
 ![Feature Importance](feature_importance_chart.png)
-#The feature importance chart highlights the variables that contributed most to predicting booking completion, providing valuable business insights into customer purchasing behaviour.
+The feature importance chart highlights the variables that contributed most to predicting booking completion, providing valuable business insights into customer purchasing behaviour.
 
 ![ROC Curve](roc_curve.png)
-# The ROC curve evaluates the model's ability to distinguish between customers who completed a booking and those who did not. A higher Area Under the Curve (AUC) indicates stronger predictive performance.
+The ROC curve evaluates the model's ability to distinguish between customers who completed a booking and those who did not. A higher Area Under the Curve (AUC) indicates stronger predictive performance.
 ---
 
 ## Key Insights
