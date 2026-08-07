@@ -2,7 +2,9 @@
 
 ## Lookup Table Preview
 
-![Lookup Table](lookup_table_preview.png)
+<p align="center">
+  <img src="lookup_table_preview.png" alt="Lookup Table Preview" width="800">
+</p>
 
 ## Project Overview
 
