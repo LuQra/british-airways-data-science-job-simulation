@@ -78,11 +78,19 @@ Visualizations included:
 - Feature distributions
 - Categorical feature analysis
 
-  ![Booking Completion Distribution](booking_completion_distribution.png)
-  This visualization shows the distribution of completed and incomplete bookings, highlighting the class imbalance within the dataset.
+### Booking Completion Distribution
 
-  ![Correlation Heatmap](correlation_heatmap.png)
-  The correlation heatmap illustrates the relationships between numerical variables, helping identify patterns and potential multicollinearity before model training.
+![Booking Completion Distribution](booking_completion_distribution.png)
+
+This visualization shows the distribution of completed and incomplete bookings, highlighting the class imbalance within the dataset.
+
+---
+
+### Correlation Heatmap
+
+![Correlation Heatmap](correlation_heatmap.png)
+
+The correlation heatmap illustrates the relationships between numerical variables, helping identify patterns and potential multicollinearity before model training.
 
 ---
 
@@ -101,7 +109,7 @@ The dataset was transformed into a machine-learning-ready format by:
 
 A **Random Forest Classifier** was trained to predict booking completion.
 
-The model was further improved through hyperparameter tuning to optimize predictive performance.
+The model was further improved using GridSearchCV, which systematically evaluated different combinations of hyperparameters to identify the configuration that produced the best predictive performance.
 
 ---
 
@@ -121,10 +129,18 @@ Performance visualizations include:
 - ROC Curve
 - Feature Importance
 
-![Feature Importance](feature_importance_chart.png)
+### Feature Importance
+
+![Feature Importance](feature_importance.png)
+
 The feature importance chart highlights the variables that contributed most to predicting booking completion, providing valuable business insights into customer purchasing behaviour.
 
+---
+
+### ROC Curve
+
 ![ROC Curve](roc_curve.png)
+
 The ROC curve evaluates the model's ability to distinguish between customers who completed a booking and those who did not. A higher Area Under the Curve (AUC) indicates stronger predictive performance.
 ---
 
@@ -169,11 +185,15 @@ Based on the findings, British Airways could:
 
 ## Repository Contents
 
-```text
+```
 Task_2_Customer_Buying_Behaviour/
 ├── README.md
-├── customer_buying_behaviour_prediction.ipynb
+├── BA_Customer_Buying_Behaviour_Prediction.ipynb
 └── images/
+    ├── booking_completion_distribution.png
+    ├── correlation_heatmap.png
+    ├── feature_importance_chart.png
+    └── roc_curve.png
 ```
 
 ---
