@@ -187,14 +187,12 @@ Based on the findings, British Airways could:
 
 ```
 Task_2_Customer_Buying_Behaviour/
-├── README.md
-├── BA_Customer_Buying_Behaviour_Prediction.ipynb
-└── images/
+    ├── README.md
+    ├── BA_Customer_Buying_Behaviour_Prediction.ipynb
     ├── booking_completion_distribution.png
     ├── correlation_heatmap.png
     ├── feature_importance_chart.png
     └── roc_curve.png
-```
 
 ---
 
