@@ -1,5 +1,9 @@
 # ✈️ Task 1: Modeling Lounge Eligibility at Heathrow Terminal 3
 
+## Lookup Table Preview
+
+![Lookup Table](lookup_table_preview.png)
+
 ## Project Overview
 
 This project was completed as part of the **British Airways Data Science Job Simulation** on Forage.
