@@ -136,12 +136,12 @@ Performance visualizations include:
 The feature importance chart highlights the variables that contributed most to predicting booking completion, providing valuable business insights into customer purchasing behaviour.
 
 ---
-
 ### ROC Curve
 
-![ROC Curve](roc_curve.png)
+![ROC Curve](images/roc_curve.png)
 
 The ROC curve evaluates the model's ability to distinguish between customers who completed a booking and those who did not. A higher Area Under the Curve (AUC) indicates stronger predictive performance.
+
 ---
 
 ## Key Insights
