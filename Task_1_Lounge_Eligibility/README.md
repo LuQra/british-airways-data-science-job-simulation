@@ -2,7 +2,7 @@
 
 ## Lookup Table Preview
 
-![Lookup Table](lookup_table_preview.png)
+![Lookup Table](BA_Lounge_Eligibility_Lookup_Table.png)
 
 ## Project Overview
 
