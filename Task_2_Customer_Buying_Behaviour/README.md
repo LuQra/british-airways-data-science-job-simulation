@@ -186,13 +186,18 @@ Based on the findings, British Airways could:
 ## Repository Contents
 
 ```
+## Repository Contents
+
+```text
 Task_2_Customer_Buying_Behaviour/
-    ├── README.md
-    ├── BA_Customer_Buying_Behaviour_Prediction.ipynb
-    ├── booking_completion_distribution.png
-    ├── correlation_heatmap.png
-    ├── feature_importance_chart.png
-    └── roc_curve.png
+├── README.md
+├── BA_Customer_Buying_Behaviour_Prediction.ipynb
+├── customer_booking.csv
+├── booking_completion_distribution.png
+├── correlation_heatmap.png
+├── feature_importance_chart.png
+└── roc_curve.png
+```
 
 ---
 
